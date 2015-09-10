@@ -1,0 +1,29 @@
+h1 {
+  color: #666633;
+  text-align: center;
+}
+
+
+h2 {
+  color: #6699ff;
+  font-style: italic;
+  text-align: center;
+}
+
+h3 {
+  color: #cc6699;
+}
+
+  p {
+    font-family: "Courier New", Courier, monospace;
+  }
+
+  ul{
+    color: #ff0000;
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+em {
+  font-weight: bold;
+}
